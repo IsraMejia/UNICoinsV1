@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../coinAcceptor"
+		},
+		{
+			"name": "RecibidorMonedasESP32",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
